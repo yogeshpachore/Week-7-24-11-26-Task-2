@@ -1,0 +1,26 @@
+============================================================
+ADMISSION MODEL FINDINGS & COMMITTEE REPORT
+============================================================
+
+1. EXECUTIVE SUMMARY
+- Total Applications Analyzed : 1000 (Years 2022-2026)
+- Accepted Applicants         : 435 (43.50%)
+- Rejected Applicants         : 565 (56.50%)
+- Model Performance           : R2 = 0.2484, MAE = 0.0867
+
+2. KEY FEATURE FINDINGS
+- Top Model Driver            : CGPA (Importance: 0.288)
+- Second Top Driver           : Year (Importance: 0.133)
+- Strongest Linear Correlates : CGPA (0.348), GRE Score (0.283), TOEFL Score (0.264)
+
+3. DATA ANALYSIS INSIGHTS
+- Academic Gap                : Accepted mean CGPA is 8.78 vs Rejected 8.44.
+- Test Score Gap              : Accepted mean GRE is 319.55 vs Rejected 313.2.
+- Research Advantage          : Acceptance rate with Research = 55.5% vs without = 31.4%.
+- Regional Variation          : Highest acceptance rate in Northeast (56.0%), lowest in East (38.26%).
+
+4. RECOMMENDATIONS FOR ADMISSION COMMITTEES
+- Prioritize CGPA and standardized test scores (GRE/TOEFL) as primary screening indicators.
+- Give structured weight to prior Research experience, as it shows a clear boost in admission probability.
+- Review SOP and LOR scores consistently alongside quantitative thresholds near the 0.75 chance boundary.
+- Monitor regional acceptance differences to ensure fair outreach across underrepresented regions.
